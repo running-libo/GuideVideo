@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/GuideVideo/app/build/intermediates/res/merged/debug/raw/splash_2.3gp",
+        "source": "/Users/goobird-iOS004/Desktop/GuideVideo/app/src/main/res/raw/splash_2.3gp"
+    },
+    {
+        "merged": "/Users/apple/Desktop/GuideVideo/app/build/intermediates/res/merged/debug/raw/guide1.mp4",
+        "source": "/Users/apple/Desktop/GuideVideo/app/src/main/res/raw/guide1.mp4"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/GuideVideo/app/build/intermediates/res/merged/debug/raw/area.txt",
+        "source": "/Users/goobird-iOS004/Desktop/GuideVideo/app/src/main/res/raw/area.txt"
+    },
+    {
+        "merged": "/Users/apple/Desktop/GuideVideo/app/build/intermediates/res/merged/debug/raw/guide2.mp4",
+        "source": "/Users/apple/Desktop/GuideVideo/app/src/main/res/raw/guide2.mp4"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/GuideVideo/app/build/intermediates/res/merged/debug/raw/beep.ogg",
+        "source": "/Users/goobird-iOS004/Desktop/GuideVideo/app/src/main/res/raw/beep.ogg"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/GuideVideo/app/build/intermediates/res/merged/debug/raw/splash_3.3gp",
+        "source": "/Users/goobird-iOS004/Desktop/GuideVideo/app/src/main/res/raw/splash_3.3gp"
+    },
+    {
+        "merged": "/Users/apple/Desktop/GuideVideo/app/build/intermediates/res/merged/debug/raw/guide3.mp4",
+        "source": "/Users/apple/Desktop/GuideVideo/app/src/main/res/raw/guide3.mp4"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/GuideVideo/app/build/intermediates/res/merged/debug/raw/splash_1.3gp",
+        "source": "/Users/goobird-iOS004/Desktop/GuideVideo/app/src/main/res/raw/splash_1.3gp"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/GuideVideo/app/build/intermediates/res/merged/debug/raw/splash_4.3gp",
+        "source": "/Users/goobird-iOS004/Desktop/GuideVideo/app/src/main/res/raw/splash_4.3gp"
+    }
+]

@@ -1,0 +1,4 @@
+#Sun Nov 19 18:08:07 CST 2017
+base.0=/Users/apple/Desktop/GuideVideo/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
+renamed.0=classes.dex
+file.0=/Users/apple/Desktop/GuideVideo/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex

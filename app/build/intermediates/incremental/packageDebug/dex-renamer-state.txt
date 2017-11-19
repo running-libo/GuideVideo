@@ -1,0 +1,7 @@
+#Sun Nov 19 18:08:08 CST 2017
+base.0=/Users/apple/Desktop/GuideVideo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5fcc6e748f7a88dcb0e20e1e2132b3b72ee4d819
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/apple/Desktop/GuideVideo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d7def1b94a49ebb91085cdc3a32acd622199673c/classes.dex
+base.1=/Users/apple/Desktop/GuideVideo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d7def1b94a49ebb91085cdc3a32acd622199673c
+file.0=/Users/apple/Desktop/GuideVideo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5fcc6e748f7a88dcb0e20e1e2132b3b72ee4d819/classes.dex
